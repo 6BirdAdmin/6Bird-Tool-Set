@@ -1,4 +1,4 @@
-# Rigify-6Bird-Tools
+# 6Bird-Tool-Set
 A series of rig additions as a feature set of the Rigify Extension for Blender.
 
 Current Tools include:
